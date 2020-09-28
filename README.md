@@ -153,7 +153,7 @@ Ejemplo
 
 Los ganadores serian: `354`  
 ```
-De 3,1 -> 3, De 5,2 -> 5, De 2,4 -> 4
+De 1,3 -> 3, De 5,2 -> 5, De 2,4 -> 4
 ```
 Input Format
 ```cpp
